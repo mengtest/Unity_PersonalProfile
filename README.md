@@ -12,6 +12,6 @@
 
 ``` 可能除了学习都喜欢( ```
 
-*** 啊对
+> 啊对
 
-我还在[学院的论坛](http://liquiddomain.net/)里写过[Unity](http://liquiddomain.net/forum.php?mod=viewthread&tid=18)和[三维建模](http://liquiddomain.net/forum.php?mod=viewthread&tid=17&extra=page%3D1)的帖子，虽然tj了，但是阅读量依然排在前二。
+我还在[学院的论坛](http://liquiddomain.net/)里写过[Unity](http://liquiddomain.net/forum.php?mod=viewthread&tid=18)和[三维建模](http://liquiddomain.net/forum.php?mod=viewthread&tid=17&extra=page%3D1)的帖子，虽然tj了，但是阅读量依然排在前二)
