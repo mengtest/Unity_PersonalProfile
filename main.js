@@ -1,14 +1,14 @@
-var x = process.argv[2];
-var num = parseInt(x);
-var a, b, c;
+var inputnum = process.argv[2];
+var num = parseInt(inputnum);
+var maxline, spacenum, starnum;
 var star, space;
-for (a = 0; a < num; a++) {
+for (maxline = 0; maxline < num; maxline++) {
     star = "";
     space = "";
-    for (b = 0; b < (num - a - 1); b++) {
+    for (spacenum = 0; spacenum < (num - maxline - 1); spacenum++) {
         space += " ";
     }
-    for (c = 0; c < (2 * a + 1); c++) {
+    for (starnum = 0; starnum< (2 * maxline + 1); starnum++) {
         star += "*";
     }
     console.log(space + star);
