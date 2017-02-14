@@ -22,6 +22,7 @@
 ![](/Projects/Hooker/Unity_Hooker01.png) ![](/Projects/Hooker/Unity_Hooker02.png)
 
 * 在GlobalGameJam中休息的5小时写的一个移动端小游戏，玩家需要不断地对麦克风喊叫并通过陀螺仪不断躲避前方的陨石取得更高分数。
+
 ![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter01.png) ![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter02.png)
 
 * 移动端一个比较综合的demo，这也是学习Unity以来制作的第一个demo。
@@ -29,10 +30,12 @@
   * 基于行为树的敌人AI
   * 不同武器的不同行为方式
   * 简单的背包系统和载具。
+  
    ![](/Projects/FirstRpg/Unity_Demo_Rpg01.png) ![](/Projects/FirstRpg/Unity_Demo_Rpg02.png)
 
 * 基于Unet制作的局域网射击游戏demo。
   * 载入界面简单的音乐可视化
   * 服务器端的观察者模式（通知角色在本地的换装信息）
   * 剩余的为网上已有的教学，如：判定服务器和客户端间信息的传递和逻辑的判定，这些网上已有现有的教程，就不一一赘述了。
+  
    ![](/Projects/Unet/Unity_Demo_Unet.png)
