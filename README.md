@@ -4,7 +4,7 @@
 ####三维水面物理效果的插件
 * 通过cpu，二维数组记录点的坐标和物理信息，三维数组记录单位格内mesh信息，FixedUpdate中交替遍历，实现物理效果的模拟。
 * 由于没有精力写英文说明文档，故被AssetStore退回:( 现在已将部分源码开源
-![baidu](/Projects/PhysicalWater/Unity_Plugins_PhysicalWater.png?imageView/2/w/619/q/90)
+![baidu](/Projects/PhysicalWater/Unity_Plugins_PhysicalWater.png?imageView/2/w/300/q/50)
 ####基于讯飞SDK和图灵http端api的聊天机器人
 * 接入讯飞SDK，返回文字信息经过本地nlp分析，调用图灵接口，返回json再进过本地nlp根据心情和与用户间建立的情感矫正文字，输出显示并播放指定动画。
 * 本地nlp没有调用字典进行语义分析，是正则表达式组合，但是应对图灵机器人返回的信息已经可以实现预计需求。
