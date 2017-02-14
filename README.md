@@ -25,7 +25,7 @@
 
 * 在GlobalGameJam中休息的5小时写的一个移动端小游戏，玩家需要不断地对麦克风喊叫并通过陀螺仪不断躲避前方的陨石取得更高分数。
 
-![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter01.png) ![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter02.png)
+ ![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter01.png) ![](/Projects/GGJSpaceShouter/Unity_GGJ_SpaceShouter02.png)
 
 * 移动端一个比较综合的demo，这也是学习Unity以来制作的第一个demo。
   * 可以交互的地形
