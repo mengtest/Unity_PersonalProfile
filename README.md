@@ -11,8 +11,7 @@
 * 另外：针对网上没有的Unity5.x+AndroidStudio写了[Unity5.x+Android Studio 讯飞SDK的接入](http://liquiddomain.net/forum.php?mod=viewthread&tid=17&extra=page%3D1)教程并附上了源码。
 
 ####一些小游戏demo
-* 移动端竖版手势操作的游戏。
-
+* 移动端竖版手势操作的游戏，爽快的打击感和策略性为核心。原型
 * 在GlobalGameJam中休息的5小时写的一个移动端小游戏，玩家需要不断地对麦克风喊叫并通过陀螺仪不断躲避前方的陨石取得更高分数。
 
 下载链接：
