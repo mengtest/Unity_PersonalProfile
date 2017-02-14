@@ -16,7 +16,9 @@
 ####一些小游戏demo
 * 一个较为另类的音乐游戏原型。通过分析音乐频率进行敌人生成。玩家通过建造辅助墙壁抵挡外来敌人，自身的墙壁可抵挡敌人进行加分。
 
-![](/Projects/MusicGame/Unity_Demo_MusicGame01.png) ![](/Projects/MusicGame/Unity_Demo_Music02.png) ![](/Projects/MusicGame/Unity_Demo_MusicGame03.png) 
+ ![](/Projects/MusicGame/Unity_Demo_MusicGame01.png)
+ ![](/Projects/MusicGame/Unity_Demo_Music02.png)
+ ![](/Projects/MusicGame/Unity_Demo_MusicGame03.png) 
 
 * 移动端竖版手势操作的游戏，爽快的打击感和策略性为核心。实现了程序原型，目前在进行美术制作。
 ![](/Projects/Hooker/Unity_Hooker01.png) ![](/Projects/Hooker/Unity_Hooker02.png)
