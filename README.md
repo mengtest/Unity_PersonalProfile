@@ -15,7 +15,7 @@
 ![](/Projects/TalkFriends/Unity_TalkFriend01.png) ![](/Projects/TalkFriends/Unity_TalkFriend02.png)
 
 ####一些小游戏demo
-* 一个较为另类的音乐游戏原型。通过分析音乐频率进行敌人生成。玩家通过建造辅助墙壁抵挡外来敌人，自身的墙壁可抵挡敌人进行加分。
+* 一个较为另类的音乐游戏原型。通过分析音乐频率进行敌人生成。玩家通过建造辅助墙壁抵挡外来敌人，自身的墙壁可抵挡敌人进行加分。玩家在中心球体收到伤害时的反馈是mesh实时计算生成的。
 
  ![](/Projects/MusicGame/Unity_Demo_MusicGame01.png)
  ![](/Projects/MusicGame/Unity_Demo_Music02.png)
