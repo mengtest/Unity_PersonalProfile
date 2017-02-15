@@ -23,7 +23,7 @@
 
 * 移动端竖版手势操作的游戏，爽快的打击感和策略性为核心。实现了程序原型，目前在进行美术制作。
 
-![](/Projects/Hooker/Unity_Hooker01.png) ![](/Projects/Hooker/Unity_Hooker02.png)
+ ![](/Projects/Hooker/Unity_Hooker01.png) ![](/Projects/Hooker/Unity_Hooker02.png)
 
 * 在GlobalGameJam中休息的5小时写的一个移动端小游戏，玩家需要不断地对麦克风喊叫并通过陀螺仪不断躲避前方的陨石取得更高分数。
 
